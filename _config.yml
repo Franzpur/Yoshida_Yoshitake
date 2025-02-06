@@ -1,1 +1,4 @@
 theme: minima
+theme: title
+theme: description
+theme: author
